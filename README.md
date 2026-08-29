@@ -13,7 +13,7 @@ Backend-focused Software Engineer | Java • Spring Boot • APIs • Systems
 
 - 💻 Backend-focused software engineer with experience in enterprise applications and Java development.
 - 🔭 Interested in scalable backend systems and clean architecture.
-- 🌱 Currently working as an Backend Developer, focusing on production issue debugging, root cause analysis, and system reliability improvements.
+- 🌱 Currently working as a Backend Developer, focusing on production issue debugging, root cause analysis, and system reliability improvements.
 - ⚡ Enjoy building practical projects and learning through experimentation.
 - 💬 Open to collaboration and learning opportunities.
 - 📫 Reach me at: <a href="mailto:anovapandey07@gmail.com">Mail</a>
